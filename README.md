@@ -1,2 +1,2 @@
 # NovaMart
-NovaMart is a next-generation, multi-vendor e-commerce marketplace architected to seamlessly bridge the digital gap between retail shoppers, small-to-medium vendors, and platform administrators.
+This platform was specifically engineered to tackle the industry-standard 70% cart abandonment rate by eliminating interface friction and significantly reducing cognitive load.
